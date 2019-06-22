@@ -1,0 +1,4 @@
+Nome : Felipe Fontenele de Ávila Magalhães
+Matrícula : 15.1.4331
+Obs: Eu fiz todos os exercícios normalmente sem usar o recurso do arquivo, porém mudei de ideia e 
+só desativei nos códigos a interacao com o usuário.
